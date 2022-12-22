@@ -21,7 +21,7 @@
     <PackageReference Include="AWSSDK.Kinesis" Version="3.3.100.112" />
     <PackageReference Include="AWSSDK.SQS" Version="3.3.102.44" />
     <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="2.2.0" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
   <ItemGroup>
